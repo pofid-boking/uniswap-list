@@ -1,0 +1,34 @@
+{
+  "name": "Pofid Dao Token List",
+  "logoURI": "https://pofid.com/images/favicon.ico",
+  "keywords": [
+    "pofid dao",
+    "sero",
+    "special tokens"
+  ],
+  "tags": {
+    "mapping": {
+      "name": "Mapping",
+      "description": "Mapping from Pofid Dao base on SERO"
+    }
+  },
+  "timestamp": "2020-09-06T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x4ded81705e11194099a5f0a594d153b54c80436e",
+      "symbol": "PFID",
+      "name": "Pofid Dao Token",
+      "decimals": 18,
+      "logoURI": "https://pofid.com/images/favicon.ico",
+      "tags": [
+        "mapping"
+      ]
+    ,
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
