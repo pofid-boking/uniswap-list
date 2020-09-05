@@ -5,6 +5,7 @@
     "pofid dao",
     "sero",
     "special tokens"
+    "defi"
   ],
   "tags": {
     "mapping": {
@@ -16,7 +17,7 @@
   "tokens": [
     {
       "chainId": 1,
-      "address": "0x4ded81705e11194099a5f0a594d153b54c80436e",
+      "address": "0x87c4bd3038176301e81e6682ce51a6fdaefabd0c",
       "symbol": "PFID",
       "name": "Pofid Dao Token",
       "decimals": 18,
